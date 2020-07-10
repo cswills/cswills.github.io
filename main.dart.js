@@ -23576,7 +23576,7 @@ F.nQ.prototype={
 aN:function(){return new F.zL(C.q)}}
 F.zL.prototype={
 L:function(a){var t=null,s=L.Rl(this.a.c,A.iX(t,t,t,t,t,t,t,t,t,t,t,t,t,C.bY,t,t,!0,10,t,t,t,t,t))
-return new M.ox(new E.ma(s,new P.Y(1/0,56),t),new T.i2(C.aj,t,t,T.Yq(H.b([new U.nb(M.a_2(t,t,new L.mc("assets/logo.png",t,t)),150,150,t),new T.fe(t,20,t,t),L.Rl("welcome",A.iX(t,t,t,t,t,t,t,t,t,t,t,36,t,t,t,t,!0,t,t,t,t,t,t))],u.t),C.o2),t),t)}}
+return new M.ox(new E.ma(s,new P.Y(1/0,56),t),new T.i2(C.aj,t,t,T.Yq(H.b([new U.nb(M.a_2(t,t,new L.mc("images/logo.png",t,t)),150,150,t),new T.fe(t,20,t,t),L.Rl("welcome",A.iX(t,t,t,t,t,t,t,t,t,t,t,36,t,t,t,t,!0,t,t,t,t,t,t))],u.t),C.o2),t),t)}}
 X.cQ.prototype={
 i:function(a){return this.b}}
 X.bZ.prototype={
